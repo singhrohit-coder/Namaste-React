@@ -33,7 +33,6 @@ https://www.geeksforgeeks.org/emmet-in-visual-studio-code/
 
 3.Difference between a **Library** and **Framework**.
 <br>
-Sure, let's break it down using your analogy of a school/college and a home/house.
 
 ### Framework (School/College)
 Think of a framework as a school or college. When you enroll in a school, you follow a structured curriculum, attend classes at specific times, and adhere to the school's rules and regulations. The school provides a predefined structure and environment for learning, and you operate within that structure. Similarly, a framework provides a structured environment for developing software. It dictates the flow of control and provides a set of rules and guidelines that you must follow. You build your application within the framework's structure.

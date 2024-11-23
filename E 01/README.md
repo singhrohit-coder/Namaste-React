@@ -12,10 +12,14 @@
 
 
 **THEORY**
+
+---
+
 1.Introduction of **React.js**
 
 
 React, also known as ReactJS, is a popular and powerful JavaScript library used for building dynamic and interactive user interfaces, primarily for single-page applications (SPAs). It was developed and maintained by Facebook and has gained significant popularity due to its efficient rendering techniques, reusable components, and active community support.
+
 ---
 
 2.What is **Emmet** ?
@@ -24,6 +28,7 @@ React, also known as ReactJS, is a popular and powerful JavaScript library used 
 <br>
 For more information go to website:
 https://www.geeksforgeeks.org/emmet-in-visual-studio-code/
+
 ---
 
 3.Difference between a **Library** and **Framework**.
@@ -71,6 +76,7 @@ Line 2 User from Brazil: Similarly, the CDN serves the content from an edge serv
 Line 3 User from Europe: The content for European users will be fetched from the European edge servers, resulting in faster load times.
 
 Line 4 User from India: For Indian users, the CDN will serve content from the origin server (or a nearby edge server), ensuring the fastest response.
+
 ---
 
 5.Why is **React** known as **React**?

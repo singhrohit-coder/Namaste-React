@@ -11,7 +11,7 @@
 # Assignment
 
 
-##THEORY
+## THEORY
 
 ---
 

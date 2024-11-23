@@ -1,0 +1,11 @@
+#parent {
+    background-color: brown;
+    padding-bottom: 10px;
+}
+#child1 {
+    color: rgb(192, 167, 167);
+}
+
+#child2 {
+    color: yellowgreen
+}

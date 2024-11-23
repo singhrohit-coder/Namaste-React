@@ -88,14 +88,17 @@ React is called "React" because it helps create user interfaces that react to ch
 **Example**: Imagine you have a list of items on a webpage. If you add a new item, React updates the list automatically without reloading the whole page. This makes the user experience smooth and dynamic. 
 
 It's like having a smart assistant that keeps everything up-to-date for you!
+
 ---
 
 6.What is **crossorigin** in script tag?
 <br>
 The crossorigin attribute in the [script] tag tells the browser how to handle cross-origin requests (requests for files from a different website).
+
 ---
 
 7.What is the difference **React** and **ReactDOM**.
+
 <br>
 
 *React*
@@ -107,6 +110,7 @@ The crossorigin attribute in the [script] tag tells the browser how to handle cr
 *ReactDOM*
 *ReactDOM is a separate package that enables/possible [React] to update and render/process [UI components] -> **Examples**:  like buttons, checkboxes, sliders and etc... on the web browser by diorectlyinteracting with the browser's Document Object Model[DOM].
 *Specifically used for web applications, integrating with the browser.
+
 ---
 
 8.What is the difference between **react.development.js** and **react.production.js** files via CDN?

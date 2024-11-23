@@ -49,7 +49,9 @@ Now, think of a library as your home. At home, you have the freedom to do things
 ---
 
 4.What is **CDN**? Why do we use it?
+
 <br>
+
 CDN(Content Delivery Network).It is a network that helps us to speed up webpage loading for web users.It is spread all over the world as usage of the internet is everywhere.It is a network of distributed servers that work together to deliver the content to users based on their geographical location.
 
 Let's understand with the help of **Example**

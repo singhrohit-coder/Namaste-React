@@ -8,10 +8,10 @@
 -  Create Nested React Elements 
 -  Use root.render
 
-## Assignment
+# Assignment
 
 
-**THEORY**
+##THEORY
 
 ---
 

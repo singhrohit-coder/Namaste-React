@@ -108,8 +108,9 @@ The crossorigin attribute in the [script] tag tells the browser how to handle cr
 <br>
 
 *ReactDOM*
-*ReactDOM is a separate package that enables/possible [React] to update and render/process [UI components] -> **Examples**:  like buttons, checkboxes, sliders and etc... on the web browser by diorectlyinteracting with the browser's Document Object Model[DOM].
-*Specifically used for web applications, integrating with the browser.
+- ReactDOM is a separate package that enables/possible [React] to update and render/process [UI components] -> **Examples**:  like buttons, checkboxes, sliders and etc... on the web browser by diorectlyinteracting with the browser's Document Object Model[DOM].
+
+- Specifically used for web applications, integrating with the browser.
 
 ---
 

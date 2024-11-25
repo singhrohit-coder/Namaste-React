@@ -61,22 +61,23 @@ A website hoisted in *India* with users spread around the world, such as *USA*,*
 <br>
 **Without CDN**:
 <br>
-Line 1 User from USA: The user in the USA would request content from the server located in India. The data has to travel a long distance (thousands of kilometers), leading to high latency and slower load times.
+- User from USA: The user in the USA would request content from the server located in India. The data has to travel a long distance (thousands of kilometers), leading to high latency and slower load times.
 
-Line 2 User from Brazil: Similarly, the user in Brazil would experience delays because the content needs to travel from India.
+- User from Brazil: Similarly, the user in Brazil would experience delays because the content needs to travel from India.
 
-Line 3 User from Europe: European users may have a better experience than users from the USA or Brazil, but still, the distance from India impacts the speed.
+- User from Europe: European users may have a better experience than users from the USA or Brazil, but still, the distance from India impacts the speed.
 <br>
 
 **With CDN**
 <br>
-Line 1 User from USA: The CDN has an edge server in the USA. When the user requests the content, the CDN serves the content from the USA server. This reduces the time it takes to retrieve the content.
 
-Line 2 User from Brazil: Similarly, the CDN serves the content from an edge server in Brazil or a nearby region, reducing latency and speeding up load times.
+- User from USA: The CDN has an edge server in the USA. When the user requests the content, the CDN serves the content from the USA server. This reduces the time it takes to retrieve the content.
 
-Line 3 User from Europe: The content for European users will be fetched from the European edge servers, resulting in faster load times.
+- User from Brazil: Similarly, the CDN serves the content from an edge server in Brazil or a nearby region, reducing latency and speeding up load times.
 
-Line 4 User from India: For Indian users, the CDN will serve content from the origin server (or a nearby edge server), ensuring the fastest response.
+- User from Europe: The content for European users will be fetched from the European edge servers, resulting in faster load times.
+
+- User from India: For Indian users, the CDN will serve content from the origin server (or a nearby edge server), ensuring the fastest response.
 
 ---
 

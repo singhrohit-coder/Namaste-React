@@ -14,6 +14,15 @@ Each **Episode** in this series covers a different aspect of React. As I learn t
 
 React is a popular JavaScript library for building user interfaces, developed by Facebook. It allows developers to build fast, dynamic, and scalable web applications.
 
+
+**Goals**
+<br>
+- Track Progress: This series helps me keep track of my learning progress.
+
+- Enhance Skills: By breaking down complex concepts and implementing projects, I aim to enhance my React skills.
+
+- Revision Purpose: The repository serves as a comprehensive resource for revising React concepts and techniques.
+
 **Table Of Contents**
 <br>
 

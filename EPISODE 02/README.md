@@ -15,19 +15,26 @@
   4.  Both Parcel and Webpack provide us various optimisation techniques like -> ***minification*** , ***tree shaking*** and ***code splitting*** which help to reduce the size of our final build and improves the performance of the application.
   5.  And a lot more ......
   6.  https://parceljs.org/
+  7.  https://webpack.js.org/guides/hot-module-replacement/
 
-3. What is **.parcel-cache** 
+3. What is **.parcel-cache**
+- This file stores information about our project when parcel builds it, so that when it rebuilds our project, it doesn't have to re-parse(re- visiting) and re-analyse everything from scratch.
+- It's a key reason why parcel can be so fast.
+- Commiting this file to .git is a very bad idea bcz it would add a large number(unnecessary) of changes in your commit history.
+
 4. What is **npx** ? 
+- 
+
+
 5. What is difference between **dependencies** vs **devDependencies** 
 6. What is Tree Shaking? 
-7. What is Hot Module Replacement? 
-8. List down your favourite 5 superpowers of Parcel and describe any 3 of them in your own words. 
-9. What is **.gitignore**? What should we add and not add into it? 
-10. What is the difference between **package.json** and **package-lock.json**
-11. Why should I not modify **package-lock.json**?
-12. What is **node_modules** ? Is it a good idea to push that on git?
-13. What is the **dist** folder?
-14. What is **browserlists**
+7. What is Hot Module Replacement? List down your favourite 5 superpowers of Parcel and describe any 3 of them in your own words. 
+10. What is **.gitignore**? What should we add and not add into it? 
+9. What is the difference between **package.json** and **package-lock.json**
+10. Why should I not modify **package-lock.json**?
+11. What is **node_modules** ? Is it a good idea to push that on git?
+12. What is the **dist** folder?
+13. What is **browserlists**
 
 ## Read about dif bundlers: vite, webpack, parcel 
 - Read about:  ^ - caret and ~ - tilda 

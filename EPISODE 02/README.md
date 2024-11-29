@@ -2,6 +2,9 @@
 
 ## Theory Assignment
 1. What is **NPM**? 
+- The *npm* is originally stood for *Node Package Manager* but over the time, it has evolved to mean much more.
+- It's the ***default package manager*** for Javascript's runtime ***Nodejs***.
+
 2. What is **Parcel/Webpack**? Why do we need it? 
 3. What is **.parcel-cache** 
 4. What is **npx** ? 

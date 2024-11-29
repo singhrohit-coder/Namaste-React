@@ -6,6 +6,14 @@
 - It's the ***default package manager*** for Javascript's runtime ***Nodejs***.
 
 2. What is **Parcel/Webpack**? Why do we need it? 
+- Parcel and Webpack are both javascript module bundlers that help developers manage and optimize their code for production.
+- They take all the various assets in your project -> javascript files, css files , images , html files and bundled them into a single optimised file.
+- Here are some reasons why we need them:
+  1.  Both parcel and webpack bundles your Javascript module into a single file(or a set of files).
+  2.  They split our code into smaller chunks that can be loaded on demand.  This means that only the necessary parts of our application loaded initially, which sppeds up the initial load time.
+  3.  Both tools gives us features like ***Hot Module Replacement*** this means that it can refresh our website automatically whenever we made changes.
+  4.  Both Parcel and Webpack provide us various optimisation techniques like -> ***minification*** , ***tree shaking*** and ***code splitting*** which help to reduce the size of our final build and improves the performance of the application.
+
 3. What is **.parcel-cache** 
 4. What is **npx** ? 
 5. What is difference between **dependencies** vs **devDependencies** 

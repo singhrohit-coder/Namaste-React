@@ -21,9 +21,6 @@
 - Read about Script types in html (MDN Docs) 
 
 ## Project Assignment
-
----
-
 1. Intialize **npm** into your repo
 2. remove CDN links of react 
 3. install parcel 

@@ -13,6 +13,8 @@
   2.  They split our code into smaller chunks that can be loaded on demand.  This means that only the necessary parts of our application loaded initially, which sppeds up the initial load time.
   3.  Both tools gives us features like ***Hot Module Replacement*** this means that it can refresh our website automatically whenever we made changes.
   4.  Both Parcel and Webpack provide us various optimisation techniques like -> ***minification*** , ***tree shaking*** and ***code splitting*** which help to reduce the size of our final build and improves the performance of the application.
+  5.  And a lot more ......
+  6.  https://parceljs.org/
 
 3. What is **.parcel-cache** 
 4. What is **npx** ? 

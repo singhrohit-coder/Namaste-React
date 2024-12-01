@@ -40,12 +40,18 @@
 - Read about:  ^ - caret and ~ - tilda 
 - Read about Script types in html (MDN Docs) 
 
-## Project Assignment
-1. Intialize **npm** into your repo
-2. remove CDN links of react 
-3. install parcel 
-4. ignite your app with parcel 
-5. add scripts for “start” and “build” with parcel commands 
-6. add `.gitignore` file 
-7. add `browserlists` 
-8. build a production version of your code using `parcel build`
+## Project Assignment - Completion Log
+
+To make our application production-ready, I've completed the following tasks:
+
+1. Initialized **npm** into the repo.
+2. Removed CDN links of React.
+3. Installed Parcel.
+4. Ignited the app with Parcel.
+5. Added scripts for “start” and “build” with Parcel commands.
+    - Inside `package.json`, created a script for starting our project in development mode and for production.
+6. Added a `.gitignore` file.
+7. Added `browserlists`.
+8. Built a production version of the code using `parcel build`.
+
+With these steps done, our application is now geared up for production!

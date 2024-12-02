@@ -43,20 +43,20 @@
 - A .gitignore file tells Git which files or folders to ignore in a project. This helps keep your repository clean and free of unnecessary files.
 
 ***What to Add***:
-Node_modules: This folder contains all your project’s dependencies and can be very large.
+- Node_modules: This folder contains all your project’s dependencies and can be very large.
 
-Build files: Files generated during the build process, like dist or build folders.
+- Build files: Files generated during the build process, like dist or build folders.
 
-Environment files: Files like .env that contain sensitive information such as API keys.
+- Environment files: Files like .env that contain sensitive information such as API keys.
 
-Log files: Files that store logs, like *.log.
+- Log files: Files that store logs, like *.log.
 
 ***What Not to Add***:
-Source code: Your actual code files should not be ignored.
+- Source code: Your actual code files should not be ignored.
 
-Configuration files: Files like package.json or webpack.config.js that are essential for your project setup.
+- Configuration files: Files like package.json or webpack.config.js that are essential for your project setup.
 
-In short, add files that are generated or contain sensitive information, and keep files that are essential for your project’s functionality. 📁🚫
+- In short, add files that are generated or contain sensitive information, and keep files that are essential for your project’s functionality. 📁🚫
 
 9. What is the difference between **package.json** and **package-lock.json**
 - ***package.json*** This file lists the edependencies your project needs, along with other metadata like the project name, version, and scripts.

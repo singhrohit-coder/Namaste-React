@@ -23,12 +23,15 @@
 - Commiting this file to .git is a very bad idea bcz it would add a large number(unnecessary) of changes in your commit history.
 
 4. What is **npx** ? 
+- The npx stands for ***(Node Package Execute)*** and it comes with the npm, when we installed npm above 5.2.0 version the automatically npx will be installed.
+- It is an ***npm package runner*** that can execute any package.
+**Features of npx**
+- Runs commands without globally installing the package.
+
+5. What is difference between **dependencies** vs **devDependencies**
 - 
-
-
-5. What is difference between **dependencies** vs **devDependencies** 
-6. What is Tree Shaking? 
-7. What is Hot Module Replacement? List down your favourite 5 superpowers of Parcel and describe any 3 of them in your own words. 
+7. What is Tree Shaking? 
+8. What is Hot Module Replacement? List down your favourite 5 superpowers of Parcel and describe any 3 of them in your own words. 
 10. What is **.gitignore**? What should we add and not add into it? 
 9. What is the difference between **package.json** and **package-lock.json**
 10. Why should I not modify **package-lock.json**?

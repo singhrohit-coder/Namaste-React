@@ -29,3 +29,5 @@ React is a popular JavaScript library for building user interfaces, developed by
 - Episode - 01: **Getting Started with React - Basics & Setup** 
 
 - Episode - 02: **Setting Our App Production Ready - React App Setup**
+
+- Episode - 03: **Foundations of React - Unveiling JSX, Props and Components**
